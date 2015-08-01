@@ -1,28 +1,12 @@
-== README
+# Pearson Design
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Build Status
 
-Things you may want to cover:
+![build-status](https://circleci.com/gh/irmiller22/ppm.svg?style=shield&circle-token=69531843f90663e058d1f3d89db056aecfe84023)
 
-* Ruby version
+## Summary
 
-* System dependencies
+This is a web app for *Pearson Design*, an interior design company based
+out of Charlotte, NC, and founded by Pat Miller. It's meant to showcase
+her interior design work.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
